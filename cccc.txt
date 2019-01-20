@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-cccc
-fffr
-=======
-ccccccc
- 
->>>>>>> 347b2cb79d87e343e6bd9454d678b61791cac157
+dcccc
